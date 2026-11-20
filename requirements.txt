@@ -1,0 +1,12 @@
+pandas>=2.1
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+sacrebleu>=2.4
+rouge-score>=0.1.2
+bert-score>=0.3.13
+torch>=2.1
+anthropic>=0.40
+tqdm>=4.66
+jupyterlab>=4.1
+pytest>=8.0
